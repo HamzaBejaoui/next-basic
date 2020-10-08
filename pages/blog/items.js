@@ -10,6 +10,21 @@ const Items = () => {
       </Head>
       <Layout>
         <h1>Items</h1>
+        <h2>Liste des categories</h2>
+        <ul>
+          <li>
+            Culture
+          </li>
+          <li>
+            Geographie
+          </li>
+          <li>
+            Social
+          </li>
+          <li>
+            Economique
+          </li>
+        </ul>
       </Layout>
     </>
   );
